@@ -11,31 +11,6 @@ tracki is a live dashboard for city building permits in review 📋
 - skip excel, pull a report instead 
 - ✨impress everyone with your efficiency ✨
 
-# Table of Contents 
-- [Supported cities](#Supported-cities)
-- [Design](#Design)
-
-
-### 📍 Supported cities 
-[X] New Orleans, Louisiana
-[ ] Seattle, Washington 
-
-### 💡 Tech 
-tracki uses various technologies and open source projects, 
-here is the short list 
-[MongoDB] - NoSQL database
-[Mongoose] - schema-based object modeling for MongoDB and node.js
-[node.js] - evented I/O for the backend
-[Express] - fast node.js network app framework
-[React] - ui library 
-[material-ui] - react component library based on material system  
-
-### ✔️ Project status
-[x] Design
-[x] Mockups
-[x] Development
-[ ] Beta Testing
-[ ] Production
 Live scrumban board [here](https://github.com/users/narissatsuboi/projects/3)!
 
 ### License 
@@ -58,15 +33,6 @@ weekly report.
 as a labor of love, and plans to at least have the New Orleans site live by Spring 2024. 
 
 ---
-
-## Architecture & Design Decisions  
-#### Architecture 
-3-tier distributed architecture
-![logicalview] 
-
-### Design 
-domain-driven design 
-more to come 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
